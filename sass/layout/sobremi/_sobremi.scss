@@ -1,0 +1,27 @@
+//pagina Sobre Mi
+.card-container {
+  margin: 50px;
+
+  .card {
+
+    margin-bottom: 20px;
+  }
+
+    .card-text {
+      text-align: center;
+      padding: 10px;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+     
+
+    }
+
+    
+    
+  .card-img-top {
+    width: 100%;  
+    height: 400px; 
+    object-fit: cover; 
+  }
+
+}
